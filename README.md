@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  SagarJadhav
 - 👀 I’m interested in ... Web Technologies
-- 🌱 I’m currently learning ... React
+- 🌱 I’m currently wokring with ... React
 
 - 📫 How to reach me ... jadhavsagar.live@gmail.com
 
